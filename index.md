@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Cryptocrac: Spanish cryptocurrency and ICO consulting'
 description: null
 image: null
 author: null
