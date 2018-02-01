@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Cryptocrac: Spanish cryptocurrency and ICO consulting'
+landing-title: 'Crypto and ICO consulting'
 description: null
 image: null
 author: null
