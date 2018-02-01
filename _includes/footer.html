@@ -29,6 +29,7 @@
 					<a href="#">{{ site.email }}</a>
 				</div>
 			</section>
+		{% if site.phone %}
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
@@ -36,6 +37,8 @@
 					<span>{{ site.phone }}</span>
 				</div>
 			</section>
+		{% endif %}
+		{% if site.street_address or site.city or site.state or site.zip_code or site.country %}
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
@@ -59,6 +62,7 @@
 					</span>
 				</div>
 			</section>
+		{% endif %}
 		</section>
 	</div>
 </section>
