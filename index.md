@@ -7,4 +7,8 @@ image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Gracias a la tecnología Blockchain, cualquier empresa tiene ahora la posibilidad de financiar su expansión fácilmente mediante la emisión de tokens - creando una ICO (Initial Coin Offering). En EEUU el dinero recaudado mediante ICOs ya supera la financiación realizada por parte de las empresas de capital riesgo. Y esto es solo el inicio...
+
+¡Cualquier empresa puede aprovecharse de esta tecnología – también la suya!
+
+Cryptocrac proporciona un servicio completo para la creación de tokens, la distribución, el hosting y una amplia lista de otros servicios:
