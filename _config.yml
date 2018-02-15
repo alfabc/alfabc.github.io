@@ -1,10 +1,10 @@
 # site settings
-title: Cryptocrac
+title: Alfa Blockchain Consultants
 subtitle: Cryptocurrency financing and ICO consulting
-email: info@cryptocrac.com
+email: info@alfabc.io
 description: 
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "http://cryptocrac.com" # the base hostname & protocol for your site
+url: "http://alfabc.io" # the base hostname & protocol for your site
 #author:
 #street_address: 1234 Somewhere Road
 #city: Nashville
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings
 #500px_url:
 #facebook_url:
-github_url: http://github.com/cryptocrac
-#gitlab_url: https://gitlab.com/u/cryptocrac
-#googleplus_url: https://plus.google.com/u/0/+cryptocrac
+github_url: http://github.com/alfabc
+#gitlab_url: https://gitlab.com/u/alfabc
+#googleplus_url: https://plus.google.com/u/0/+alfabc
 #instagram_url: https://instagram.com
-#linkedin_url: https://www.linkedin.com/in/cryptocrac
+#linkedin_url: https://www.linkedin.com/in/alfabc
 #pinterest_url:
 #slack_url:
-twitter_url: https://twitter.com/cryptocrac
+twitter_url: https://twitter.com/alfabcn
 
 # build settings
 markdown: kramdown
