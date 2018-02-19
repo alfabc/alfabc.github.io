@@ -11,4 +11,4 @@ Gracias a la tecnología Blockchain, cualquier empresa tiene ahora la posibilida
 
 ¡Cualquier empresa puede aprovecharse de esta tecnología – también la suya!
 
-Cryptocrac proporciona un servicio completo para la creación de tokens, la distribución, el hosting y una amplia lista de otros servicios:
+Nosotros proporcionamos un servicio completo para la creación de tokens, la distribución, el hosting y una amplia lista de otros servicios.
