@@ -26,7 +26,7 @@ nav-menu: true
       <img src="assets/images/Chuck.png" />
 		  <h2>Chuck LeDuc Díaz</h2>
 		  <h3>Software Architect and Developer</h3>
-		  <p>Ethereum smart contract developer since 2015, Bitcoin user since 2009.</p>
+		  <p>An Ethereum smart contract developer since 2015 and a Bitcoin user since 2009, Chuck has worked as a professional software developer since 1990 on many different technogies.</p>
 	  </div>
   </div>
 </div>
