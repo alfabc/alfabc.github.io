@@ -91,13 +91,13 @@ We are blockchain agnostic and are experienced working with many blockchain fabr
       </div>
     </div>
     <ul class="actions">
-      <li><a href="#clients" class="button next scrolly">Our clients</a></li>
+      <li><a href="#team" class="button next scrolly">Our team</a></li>
     </ul>
   </div>
 </section>
 
 <!-- clients -->
-<section id="clients">
+<!-- <section id="clients">
   <div class="inner">
     <header class="major">
       <h2>Clients</h2>
@@ -107,7 +107,7 @@ We are blockchain agnostic and are experienced working with many blockchain fabr
       <li><a href="#team" class="button next scrolly">Our team</a></li>
     </ul>
   </div>
-</section>
+</section> -->
 
 <!-- Team -->
 <section id="team">
