@@ -6,12 +6,12 @@ description:
 #baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "http://alfabc.io" # the base hostname & protocol for your site
 #author:
-#street_address: 1234 Somewhere Road
-#city: Nashville
+street_address: Carrer d'Aribau, 175, Principal 1 B
+city: Nashville
 #state: TN
-#zip_code: 55555
-#country: Spain
-#phone: (716) 555-5555
+zip_code: 08036
+country: Spain
+phone: +34 931 12 54 23
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
