@@ -48,7 +48,48 @@ We are blockchain agnostic and are experienced working with many blockchain fabr
     <header class="major">
       <h2>Our services</h2>
     </header>
-    <p></p>
+    <div class="row">
+      <div class="4u 12u$(medium)">
+        <img style="mix-blend-mode: multiply;" src="assets/images/blockchain.png" />
+        <h3>Blockchain Consulting</h3>
+        <ul>
+          <li>Strategic Planning</li>
+          <li>Blockchain Architecture</li>
+          <li>Legal Consulting</li>
+          <li>Training</li>
+        </ul>
+      </div>
+      <div class="4u 12u$(medium)">
+        <img style="mix-blend-mode: multiply;" src="assets/images/development.png" />
+        <h3>Blockchain Development</h3>
+        <ul>
+          <li>Integration with Blockchain</li>
+          <li>Smart Contract Development</li>
+          <li>Wallet / Explorer</li>
+          <li>Admin Analytics</li>
+        </ul>
+      </div>
+      <div class="4u$ 12u$(medium)">
+        <img style="mix-blend-mode: multiply;" src="assets/images/token.png" />
+        <h3>Token Development</h3>
+        <ul>
+          <li>Token Contract</li>
+          <li>Crowdsale Contract</li>
+          <li>Security Audit</li>
+          <li>Contract Deployment</li>
+        </ul>
+      </div>
+      <div class="4u$ 12u$(medium)">
+        <img style="mix-blend-mode: multiply;" src="assets/images/distribution.png" />
+        <h3>Token Distribution</h3>
+        <ul>
+          <li>Exchange Listings</li>
+          <li>Enterprise Partnerships</li>
+          <li>Regional Representation</li>
+          <li>Legal / Accounting</li>
+        </ul>
+      </div>
+    </div>
     <ul class="actions">
       <li><a href="#clients" class="button next scrolly">Our clients</a></li>
     </ul>
