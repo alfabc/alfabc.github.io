@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contacto
+title: Contact us
 nav-menu: true
 ---
 
