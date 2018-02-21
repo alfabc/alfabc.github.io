@@ -40,7 +40,7 @@ nav-menu: true
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
+					<span><a href="tel:{{ site.phone }}">{{ site.phone }}</a></span>
 				</div>
 			</section>
 		{% endif %}
