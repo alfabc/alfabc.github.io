@@ -12,7 +12,8 @@ author: null
 <section id="banner" class="major">
   <div class="inner">
     <header class="major">
-      <h1>{{ page.landing-title }}</h1>
+      <img style="float: left; vertical-align:middle" src="assets/images/logo-transparent-white.png" />
+      <h1 style="vertical-align:middle">&nbsp;{{ page.landing-title }}</h1>
     </header>
     <div class="content">
       <p style="text-transform: uppercase;">{{ site.description }}</p>
@@ -49,8 +50,8 @@ We are blockchain agnostic and are experienced working with many blockchain fabr
       <h2>Our services</h2>
     </header>
     <div class="row">
-      <div class="4u 12u$(medium)">
-        <img style="mix-blend-mode: multiply;" src="assets/images/blockchain.png" />
+      <div class="4u 12u(small)">
+        <img src="assets/images/blockchain.png" />
         <h3>Blockchain Consulting</h3>
         <ul>
           <li>Strategic Planning</li>
@@ -59,8 +60,8 @@ We are blockchain agnostic and are experienced working with many blockchain fabr
           <li>Training</li>
         </ul>
       </div>
-      <div class="4u 12u$(medium)">
-        <img style="mix-blend-mode: multiply;" src="assets/images/development.png" />
+      <div class="4u$ 12u(small)">
+        <img src="assets/images/development.png" />
         <h3>Blockchain Development</h3>
         <ul>
           <li>Integration with Blockchain</li>
@@ -69,8 +70,8 @@ We are blockchain agnostic and are experienced working with many blockchain fabr
           <li>Admin Analytics</li>
         </ul>
       </div>
-      <div class="4u$ 12u$(medium)">
-        <img style="mix-blend-mode: multiply;" src="assets/images/token.png" />
+      <div class="4u 12u(small)">
+        <img src="assets/images/token.png" />
         <h3>Token Development</h3>
         <ul>
           <li>Token Contract</li>
@@ -79,8 +80,8 @@ We are blockchain agnostic and are experienced working with many blockchain fabr
           <li>Contract Deployment</li>
         </ul>
       </div>
-      <div class="4u$ 12u$(medium)">
-        <img style="mix-blend-mode: multiply;" src="assets/images/distribution.png" />
+      <div class="4u$ 12u(small)">
+        <img src="assets/images/distribution.png" />
         <h3>Token Distribution</h3>
         <ul>
           <li>Exchange Listings</li>
@@ -117,17 +118,17 @@ We are blockchain agnostic and are experienced working with many blockchain fabr
     </header>
 
     <div class="row">
-      <div class="4u 12u$(medium)">
+      <div class="4u 12u$(small)">
         <img src="assets/images/Jose.png" />
         <h3>José Cruset</h3>
         <h4>CEO</h4>
       </div>
-      <div class="4u 12u$(medium)">
+      <div class="4u 12u$(small)">
         <img src="assets/images/SX.png" />
         <h3>Simone Guaglianone</h3>
         <h4>Legal</h4>
       </div>
-      <div class="4u$ 12u$(medium)">
+      <div class="4u$ 12u$(small)">
         <img src="assets/images/Chuck.png" />
         <h3>Chuck LeDuc Díaz</h3>
         <h4>CTO</h4>
