@@ -124,14 +124,14 @@ We are blockchain agnostic and are experienced working with many blockchain fabr
         <h4>CEO</h4>
       </div>
       <div class="4u 12u$(small)">
-        <img src="assets/images/SX.png" />
-        <h3>Simone Guaglianone</h3>
-        <h4>Legal</h4>
-      </div>
-      <div class="4u$ 12u$(small)">
         <img src="assets/images/Chuck.png" />
         <h3>Chuck LeDuc Díaz</h3>
         <h4>CTO</h4>
+      </div>
+      <div class="4u$ 12u$(small)">
+        <img src="assets/images/SX.png" />
+        <h3>Simone Guaglianone</h3>
+        <h4>Legal</h4>
       </div>
     </div>
 
